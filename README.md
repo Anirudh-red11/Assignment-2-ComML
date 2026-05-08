@@ -1,5 +1,6 @@
 [# Assignment-2-ComML
 repo for computational machine learning assignment 2
+```
 Raw Data
   │
   ├─ 1. Date parsing → extract month, day, hour, minute, day_of_year
@@ -9,4 +10,5 @@ Raw Data
   ├─ 5. Encode categoricals (ordinal + label)
   ├─ 6. StandardScaler (fit on train only)
   └─ 7. Ordinal target encoding (Low=0 → Extreme=3)
+```
 
